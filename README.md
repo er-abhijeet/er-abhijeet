@@ -22,8 +22,7 @@
 
 ```yaml
 name: Abhijeet Mohapatra
-role: Full Stack Developer | Bot Builder | AI Researcher
-education: B.Tech - Computer Science
+role: Full Stack Developer
+education: B.Tech - Data Science and Artificial Intelligence
 skills: [JavaScript, Python, React, Node.js, Express, SQL, C++, LLMs, Computer Vision]
-interests: [Reinforcement Learning, Human-AI Interfaces, Dev Tooling, OSS]
 location: India 🇮🇳
